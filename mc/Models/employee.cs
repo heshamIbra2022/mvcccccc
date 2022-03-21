@@ -2,5 +2,6 @@
 {
     public class employee
     {
+        public int id { get; set; }
     }
 }
